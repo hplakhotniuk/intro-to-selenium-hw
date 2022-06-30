@@ -11,7 +11,7 @@
       <entry name="!?*.groovy" />
       <entry name="!?*.java" />
     </wildcardResourcePatterns>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="11" />
   </component>
   <component name="CopyrightManager" default="" />
   <component name="DependencyValidationManager">
@@ -30,7 +30,6 @@
             <option value="$PROJECT_DIR$" />
           </set>
         </option>
-        <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
   </component>
@@ -178,7 +177,7 @@
       <module fileurl="file://$PROJECT_DIR$/intro-to-selenium-hw.test.iml" filepath="$PROJECT_DIR$/intro-to-selenium-hw.test.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="RemoteRepositoriesConfiguration">
@@ -288,9 +287,7 @@
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/70ec961c25111ed9015d1af77772d96383c2d238/javax.inject-1-javadoc.jar!/" />
-      </JAVADOC>
+      <JAVADOC />
       <SOURCES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/" />
       </SOURCES>
